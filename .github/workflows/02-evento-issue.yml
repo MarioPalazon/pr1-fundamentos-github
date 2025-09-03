@@ -6,7 +6,7 @@ on:
         - '*.md'
   issues:
     types:
-    - closed
+    - opened
 #Job
 jobs:
   hola-mundo:
