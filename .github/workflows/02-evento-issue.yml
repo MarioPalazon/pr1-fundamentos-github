@@ -1,4 +1,4 @@
-name: 02-Evento Issue - Validar README
+name: 02-Evento Issue - Validar READMEMD
 # Trigger
 on:
   push:
